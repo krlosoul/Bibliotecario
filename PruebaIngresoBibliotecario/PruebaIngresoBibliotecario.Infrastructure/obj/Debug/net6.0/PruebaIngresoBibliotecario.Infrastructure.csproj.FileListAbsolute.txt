@@ -1,0 +1,38 @@
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.deps.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.runtimeconfig.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.csproj.AssemblyReference.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.AssemblyInfoInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.AssemblyInfo.cs
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.csproj.CopyComplete
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.genruntimeconfig.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.deps.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.runtimeconfig.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.csproj.AssemblyReference.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.AssemblyInfoInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.AssemblyInfo.cs
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.csproj.CopyComplete
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.genruntimeconfig.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Infrastructure\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Infrastructure.dll

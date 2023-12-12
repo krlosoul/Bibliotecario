@@ -1,0 +1,346 @@
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\appsettings.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.exe
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.deps.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.runtimeconfig.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Elasticsearch.Net.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\FluentValidation.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\MediatR.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NJsonSchema.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Generation.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.csproj.AssemblyReference.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.AssemblyInfoInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.AssemblyInfo.cs
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\scopedcss\bundle\PruebaIngresoBibliotecario.Api.styles.css
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.csproj.CopyComplete
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Api.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.genruntimeconfig.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Api.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\appsettings.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.exe
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.deps.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.runtimeconfig.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Api.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Elasticsearch.Net.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\FluentValidation.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\MediatR.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.PlatformAbstractions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NJsonSchema.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Generation.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Formatting.Elasticsearch.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.Elasticsearch.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\Serilog.Sinks.RollingFile.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Infrastructure.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.csproj.AssemblyReference.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.AssemblyInfoInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.AssemblyInfo.cs
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\scopedcss\bundle\PruebaIngresoBibliotecario.Api.styles.css
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.csproj.CopyComplete
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Api.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\PruebaIngresoBibliotecario.Api.genruntimeconfig.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Api\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Api.dll

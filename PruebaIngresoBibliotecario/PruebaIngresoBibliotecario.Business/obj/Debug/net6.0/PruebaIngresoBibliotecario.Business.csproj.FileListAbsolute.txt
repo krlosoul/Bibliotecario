@@ -1,0 +1,30 @@
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.deps.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.csproj.AssemblyReference.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.AssemblyInfoInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.AssemblyInfo.cs
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.csproj.CopyComplete
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.deps.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.csproj.AssemblyReference.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.AssemblyInfoInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.AssemblyInfo.cs
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.csproj.CopyComplete
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Business.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\PruebaIngresoBibliotecario.Business.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Business\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Business.dll

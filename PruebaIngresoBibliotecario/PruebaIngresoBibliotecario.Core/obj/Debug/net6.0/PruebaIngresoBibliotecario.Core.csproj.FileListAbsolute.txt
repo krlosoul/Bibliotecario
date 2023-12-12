@@ -1,0 +1,22 @@
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.deps.json
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.AssemblyInfoInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.AssemblyInfo.cs
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.deps.json
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\bin\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.AssemblyInfoInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.AssemblyInfo.cs
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.csproj.CoreCompileInputs.cache
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\refint\PruebaIngresoBibliotecario.Core.dll
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\PruebaIngresoBibliotecario.Core.pdb
+D:\PruebaCeiba - copia\PruebaIngresoBibliotecario\PruebaIngresoBibliotecario.Core\obj\Debug\net6.0\ref\PruebaIngresoBibliotecario.Core.dll
